@@ -1,1 +1,1 @@
-# -Using-Lambda-with-API-Gateway
+# Using-Lambda-with-API-Gateway
